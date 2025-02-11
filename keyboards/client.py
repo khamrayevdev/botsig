@@ -1,6 +1,5 @@
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 from aiogram import types
-from config import CHANNEL_URL
 
 
 class ClientKeyboard:
