@@ -10,7 +10,7 @@ from aiogram.fsm.state import State, StatesGroup
 
 from config import BOT_TOKEN
 from keyboards.client import ClientKeyboard
-from other.filters import ChatJoinFilter, RegisteredFilter
+from other.filters import  RegisteredFilter
 from database.db import DataBase
 
 router = Router()
